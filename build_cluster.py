@@ -6,7 +6,7 @@
 #   - Python Version 2.7.13 and 
 #   - BIG-IP Software Version 12.1.2 Build 0.0.249
 #
-# (c) Daniel Tremmel, NTT Security
+# (c) Daniel Tremmel
 #
 # Requirements: 
 #   - Python modules: requests, base64, time, sys
